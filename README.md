@@ -1,3 +1,7 @@
+
+<img width="981" height="782" alt="Ekran görüntüsü 2026-02-16 113952" src="https://github.com/user-attachments/assets/bb0c1281-3b16-42a2-854c-b5bd20b73331" />
+
+
 # Avci_Ghost
 "Cybersecurity Tool for Educational Purposes (Simulation)"
 AVCI GHOST - Artificial Intelligence Research Project
