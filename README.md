@@ -28,25 +28,5 @@ Ollama allows us to run artificial intelligence models locally. The models we us
 | dolphin-phi:2.7b | 2.7 billion | Alternative for low RAM |
 | qwen2.5:7b | 7 billion | Test model |
 
-📦 INSTALLATION (STEP BY STEP)
-
-STEP 1: Installing Python
-```bash
-# Check if Python is installed
-python --version
-# Output: Python must be 3.8.x or higher
-
-# Otherwise, download from python.org
-
-ONE-LINE INSTALLATION
-
-```bash
-# 1. Install requirements
-pip install requests colorama
-
-# 2. Install Ollama (ollama.com)
-# 3. Download the model
-ollama pull dolphin-mistral:7b
-
-# 4. Run the script
-python Avci_Ghost.py
+Made with ❤️ for AI research and education
+If you liked it, don't forget to give it a star rating to support me. For any questions, feel free to DM me on Discord. Discord nick=elysi4_x
