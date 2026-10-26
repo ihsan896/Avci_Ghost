@@ -28,5 +28,5 @@ Ollama allows us to run artificial intelligence models locally. The models we us
 | dolphin-phi:2.7b | 2.7 billion | Alternative for low RAM |
 | qwen2.5:7b | 7 billion | Test model |
 
-Made with ❤️ for AI research and education
-If you liked it, don't forget to give it a star rating to support me. For any questions, feel free to DM me on Discord. Discord nick=elysi4_x
+
+
